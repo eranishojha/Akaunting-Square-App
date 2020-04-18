@@ -3,7 +3,7 @@
 # Square App
 > Secure payment processing for your invoices
 
-[Square](https://squareup.com/us/en) is a financial services, merchant services aggregator, and payment company used by 2 million businesses.
+<a href="https://squareup.com/us/en" target="_blank">Square</a> is a financial services, merchant services aggregator, and payment company used by 2 million businesses.
 
 This app allows your customers to pay their invoices online via Squareup.com, a secure and easy way to accept credit/debit cards online. We don't get any commission fees.
 
@@ -13,18 +13,20 @@ Accept every payment quickly, easily, and securely.
 
 
 ## Installation
-For installing, please visit [https://akaunting.com/apps/square](https://akaunting.com/apps/square), then from your Akaunting dashboard and go to Settings > Square page.
+For installing, please visit <a href="https://akaunting.com/apps/square" target="_blank">https://akaunting.com/apps/square</a>, then from your Akaunting dashboard and go to **Settings > Square page**.
+
 ![Square Installation](./images/square-settings.png)
 
 ## Setting
 From this page, you can update the required settings for your app.
+
 ![Square Setting](./images/square-form.png)
 
 ### General
 In General Box, you can enable and disable the sandbox (the sandbox is for testing the payment system).
 > In a live site, the sandbox option should be disabled.
 
-**Access Token** - You can get the Access token from [Square](https://squareup.com/us/en) Payment site, there are two types of access tokens: the first one is for production mode, and another one is for testing(sandbox) mode.
+**Access Token** - You can get the Access token from <a href="https://squareup.com/us/en" target="_blank">Square</a> Payment site, there are two types of access tokens: the first one is for production mode, and another one is for testing(sandbox) mode.
 
 If Sandbox is enabled, the app will use test access token else production access token.
 
@@ -47,4 +49,4 @@ From here, you can manually sync your payments from Square to Akaunting invoices
 * Initial release.
 
 # Need a custom functionality
-Need a custom functionality in [Akaunting](https://akaunting.com), or want to develop a new feature, feel free to email us on anish.ojha@provistechnologies.com or visit [our website](https://provistechnologies.com).
+Need a custom functionality in <a href="https://akaunting.com" target="_blank">Akaunting</a>, or want to develop a new feature, feel free to email us on anish.ojha@provistechnologies.com or visit <a href="https://provistechnologies.com" target="_blank">our website</a>.
